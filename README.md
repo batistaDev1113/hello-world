@@ -2,4 +2,4 @@
 this is my first repository.
 
 
-****  My name is Yunior Batista.  I am currently finishing my major in B.S Computer science.  I am married with 2 beatiful children and I live in Orlando, Florida.
+****  My name is Yunior Batista.  I currently hold a Bachelor of Science in Computer science from Florida State University.  I am married with 2 beatiful children and I live in Orlando, Florida.
